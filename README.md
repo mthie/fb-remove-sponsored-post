@@ -1,4 +1,4 @@
-# Remove Sponsored Posts from you Facebook Feed
+# Remove Sponsored Posts from your Facebook Feed
 
 This Userscript removes the Sponsored Posts by finding the word `Sponsored` by removing invisible text and remove the complete HTML block from the DOM.
 
